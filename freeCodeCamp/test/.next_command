@@ -203,3 +203,6 @@ ls --color=auto
 find
 __vsc_prompt_cmd_original
 find toms-website/
+find
+find website-boilerplate/
+__vsc_prompt_cmd_original
