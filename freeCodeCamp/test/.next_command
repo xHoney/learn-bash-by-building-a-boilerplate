@@ -182,3 +182,4 @@ touch server.js
 __vsc_prompt_cmd_original
 touch README.md
 ls --color=auto
+echo Yay!
