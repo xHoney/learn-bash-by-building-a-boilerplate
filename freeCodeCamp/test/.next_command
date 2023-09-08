@@ -55,3 +55,4 @@ ls --color=auto
 cd src
 wd
 pwd
+ls --color=auto
