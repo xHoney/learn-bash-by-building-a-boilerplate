@@ -155,3 +155,4 @@ find
 rmdir images/
 find images/
 rm images/background.jpg
+rmdir images/
