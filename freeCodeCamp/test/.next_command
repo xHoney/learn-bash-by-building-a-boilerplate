@@ -178,3 +178,5 @@ rm -r fonts/
 __vsc_prompt_cmd_original
 ls --color=auto
 touch package.json
+touch server.js
+__vsc_prompt_cmd_original
