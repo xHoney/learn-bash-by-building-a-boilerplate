@@ -209,3 +209,4 @@ __vsc_prompt_cmd_original
 clear
 echo goodbye terminal
 __vsc_prompt_cmd_original
+exit
